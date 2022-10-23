@@ -1,7 +1,7 @@
 # Day 01 - Basics & Fundamentals
 
 ## WebApp
-  1. [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1) [ done ]
+  1. [Inside look at modern web browser (part 1) - CPU, GPU, Memory, and multi-process architecture](https://developers.google.com/web/updates/2018/09/inside-browser-part1) [ done ]
   2. [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2) [ done ]
   3. [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3) [ done ]
   4. [Inside look at modern web browser (part 4)](https://developer.chrome.com/blog/inside-browser-part4/) [ done ]
