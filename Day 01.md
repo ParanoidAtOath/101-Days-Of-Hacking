@@ -9,7 +9,7 @@
 
 ## Networking
   1. [Common Terminologies used in Networking](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols) [ done ]
-  2. [What is an IP (Internet Procol) address ?](https://commotionwireless.net/docs/cck/networking/learn-networking-basics/) [ done ]
+  2. [What is an IP (Internet Protocol) address ?](https://commotionwireless.net/docs/cck/networking/learn-networking-basics/) [ done ]
   3. [What are Ports and How they work ?](https://www.utilizewindows.com/list-of-common-network-port-numbers/) [ done ]
   4. [What is Domain Name System and How it works ?](https://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704) [ done ]
   5. [A Basic Guide on Networking](http://www.penguintutor.com/linux/basic-network-reference) [ done ]
