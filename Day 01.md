@@ -17,7 +17,7 @@
 
 ## Linux CLI
   1. [Setting Up Your Ubuntu Box for Pentest and Bug Bounty Automation](https://www.youtube.com/watch?v=YhUiAH5SIqk&t=1s) [ done ]
-  2. [Linux for beginners video series on Youtube - (VIDEO)](https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) [ done ]
+  2. [Linux for beginners on Youtube - (VIDEO series)](https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) [ done ]
   3. [Basic Linux Command](https://www.hostinger.com/tutorials/linux-commands) [ done ]
   4. [How to use curl](https://flaviocopes.com/http-curl/) [ done ]
   5. [Loops in linux](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html) [ done ]
