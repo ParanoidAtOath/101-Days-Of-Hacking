@@ -15,8 +15,8 @@
   2. [HTTP terminologies](https://developer.mozilla.org/en-US/docs/Web/HTTP)
   3. [How to Identify resources on WebApp?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
   4. [What are Data URLs?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URLs)
-  5. 
-  6. 
+  5. [What are MIME types?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_typesv)
+  6. [Choosing between WWW and non-WWW urls](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Choosing_between_www_and_non-www_URLs)
 
 ## Linux CLI
   1. 
