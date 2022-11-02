@@ -14,7 +14,7 @@
   1. [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server) [ done ]
   2. [HTTP terminologies](https://developer.mozilla.org/en-US/docs/Web/HTTP)
   3. [How to Identify resources on WebApp?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
-  4. 
+  4. [What are Data URLs?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URLs)
   5. 
   6. 
 
