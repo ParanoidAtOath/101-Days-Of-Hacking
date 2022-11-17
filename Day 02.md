@@ -19,12 +19,7 @@
   6. [Choosing between WWW and non-WWW urls](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Choosing_between_www_and_non-www_URLs) [ done ]
 
 ## Linux CLI
-  1. 
-  2. 
-  3. 
-  4. 
-  5. 
-  6. 
+  1. [Beginner Linux for Ethical Hackers - Navigating the File System - VIDEO](https://www.youtube.com/watch?v=r8giT8BBdw8&list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W) [ done ] 
 
-### Book : [The WebApplication Hacker's Handbook 2nd edition](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf) - upto page 20 [ done ]
-### Course : [Intro to Bug Bounty Hunting and Web App Hacking](https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/) - upto 20% [ done ]
+### Book : [The WebApplication Hacker's Handbook 2nd edition](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf) - upto page 40 [ done ]
+### Course : [Intro to Bug Bounty Hunting and Web App Hacking](https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/) - upto 30% [ done ]
