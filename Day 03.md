@@ -1,13 +1,13 @@
 # Day 03 - Basics & Fundamentals
 
 ## Networking
-  1. [Different topics related to HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)
+  1. [Different topics related to HTTP (all topics listed below)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)
   2. [An overview of HTTP - How HTTP works ?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
   3. [Evolution of HTTP - A Brief on How HTTP evolved](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
   4. [HTTP Messages - How data is exchanged between a server and a client ?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
   5. [HTTP Headers - How the client and the server pass additional information ?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-  6. [A typical HTTP session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-  7. [HTTP response status codes - indicate whether a specific HTTP request has been successfully completed](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+  6. [A typical HTTP session - How Client and Sever communicate ?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+  7. [HTTP response status codes - indicate the status of the request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
   8. 
 
 ## WebApp
