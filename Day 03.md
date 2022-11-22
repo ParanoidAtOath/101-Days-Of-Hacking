@@ -10,11 +10,11 @@
   7. [HTTP response status codes - indicate the status of the request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
   8. [Connection management in HTTP/1.x and HTTP/2](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
 
-## WebApp
+## WebApp Security
   1. [Understanding "same-site" and "same-origin"](https://web.dev/same-site-same-origin/)
   2. [Same-origin policy (SOP)](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
   3. [Using HTTP cookies (web and browser cookies)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
-  4. 
+  4. [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
   5. 
   6. 
 
