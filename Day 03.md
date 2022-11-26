@@ -15,7 +15,7 @@
   2. [Same-origin policy (SOP)](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
   3. [Using HTTP cookies (web and browser cookies)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
   4. [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
-  5. 
+  5. [Is CSRF dead ?](https://scotthelme.co.uk/csrf-is-dead/)
   6. 
 
 ## Linux CLI
