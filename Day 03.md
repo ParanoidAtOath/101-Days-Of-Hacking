@@ -19,7 +19,10 @@
   6. 
 
 ## Linux CLI
-  1. 
+  1. [Beginner Linux for Ethical Hackers - Users and Privileges](https://www.youtube.com/watch?v=Sl60jGmr8e0&list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W&index=2)
+
+## Cyber Security Talks (how hackers learn their crafts)
+  1. [How to Crush Bug Bounties in the first 12 Months](https://www.youtube.com/watch?v=AbebbJ3cRLI)
 
 ### Book : [The WebApplication Hacker's Handbook 2nd edition](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf) - upto page 40 [ done ]
 ### Course : [Intro to Bug Bounty Hunting and Web App Hacking](https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/) - upto 30% [ done ]
