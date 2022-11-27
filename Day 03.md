@@ -15,8 +15,8 @@
   2. [Same-origin policy (SOP)](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
   3. [Using HTTP cookies (web and browser cookies)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
   4. [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
-  5. [What is CSRF?](https://owasp.org/www-community/attacks/csrf)
-  6. [Is CSRF dead ?](https://scotthelme.co.uk/csrf-is-dead/)
+  5. [What is CSRF (Cross-Site-Reuest-Forgery)?](https://owasp.org/www-community/attacks/csrf)
+  6. [Is CSRF dead in Modern Web Browsers?](https://scotthelme.co.uk/csrf-is-dead/)
 
 ## Linux CLI
   1. [Beginner Linux for Ethical Hackers - Users and Privileges](https://www.youtube.com/watch?v=Sl60jGmr8e0&list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W&index=2)
