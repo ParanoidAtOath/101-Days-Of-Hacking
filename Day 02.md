@@ -10,7 +10,7 @@
   7. [What is CLEAN URLs?](https://en.wikipedia.org/wiki/Clean_URL) [ done ]
   8. [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) [ done ]
 
-## WebApp
+## WebApp Security
   1. [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server) [ done ]
   2. [HTTP terminologies](https://developer.mozilla.org/en-US/docs/Web/HTTP) [ done ]
   3. [How to Identify resources on WebApp?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web) [ done ]
