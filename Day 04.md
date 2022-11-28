@@ -11,8 +11,8 @@
   8. 
 
 ## WebApp Security
-  1. 
-  2. 
+  1. [What is Cross-Site-Scripting?](https://owasp.org/www-community/attacks/xss/)
+  2. [Cross-Site-Scripting Prevention Cheet Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
   3. 
   4. 
   5. 
