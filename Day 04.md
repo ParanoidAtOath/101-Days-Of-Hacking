@@ -19,7 +19,7 @@
   6. 
 
 ## Linux CLI
-  1. 
+  1. [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://www.youtube.com/watch?v=U1w4T03B30I)
 
 ## Cyber Security Talks (how hackers learn their crafts)
   1. 
