@@ -1,7 +1,7 @@
 # Day 04 - Basics & Fundamentals
 
-## Networking
-  1. 
+## Networking / WebApp (Refreshers)
+  1. [What is HTTP?](https://www.w3schools.com/whatis/whatis_http.asp)
   2. 
   3. 
   4. 
@@ -10,7 +10,7 @@
   7. 
   8. 
 
-## WebApp Security
+## WebApp Security (Blogs/Articles)
   1. [What is Cross-Site-Scripting?](https://owasp.org/www-community/attacks/xss/)
   2. [Cross-Site-Scripting Prevention Cheet Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
   3. 
