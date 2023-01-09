@@ -1,7 +1,7 @@
 # Day 04 - Basics & Fundamentals
 
 ## Networking / WebApp (Refreshers)
-  1. [What is HTTP? ([http overview](https://www.tutorialspoint.com/http/http_overview.htm), parameter, requests, responses, messages, methods, status codes, headers, chache, security, url encoding with examples.)](https://www.tutorialspoint.com/http/index.htm) [ done ]
+  1. [What is HTTP? [HTTP - overview](https://www.tutorialspoint.com/http/http_overview.htm), HTTP parameters, requests, responses, messages, methods, status codes, headers, chache, security, url encoding with examples.) [ done ]
   2. [Overview of HTML and some practical codes.](https://www.w3schools.com/whatis/whatis_html.asp)
   3. 
   4. 
