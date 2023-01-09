@@ -2,7 +2,7 @@
 
 ## Networking / WebApp (Refreshers)
   1. What is HTTP? ([HTTP - Overview](https://www.tutorialspoint.com/http/http_overview.htm), [HTTP Parameters](https://www.tutorialspoint.com/http/http_parameters.htm), [HTTP - Messages](https://www.tutorialspoint.com/http/http_messages.htm), [HTTP - Requests](https://www.tutorialspoint.com/http/http_requests.htm), [HTTP - Responses](https://www.tutorialspoint.com/http/http_responses.htm), [HTTP - Methods](), [HTTP - Status_Codes](), [HTTP - Header_Fields](), [HTTP - Chaching](), [HTTP - URL_Encoding](), [HTTP - Security](), [HTTP - Message_Examples]()) [ done ]
-  2. [Overview of HTML and some practical codes.](https://www.w3schools.com/whatis/whatis_html.asp)
+  2. [Overview of HTML with some practical codes.](https://www.w3schools.com/whatis/whatis_html.asp)
   3. 
   4. 
   5. 
