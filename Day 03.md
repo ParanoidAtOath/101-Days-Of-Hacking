@@ -1,6 +1,6 @@
 # Day 03 - Basics & Fundamentals
 
-## Networking
+## Webapp fundamentals
   1. [Different topics related to HTTP (all topics listed below)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP) [ done ]
   2. [An overview of HTTP - How HTTP works ?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) [ done ]
   3. [Evolution of HTTP - A Brief on How HTTP evolved](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP) [ done ]
