@@ -1,6 +1,6 @@
 # Day 02 - Basics & Fundamentals
 
-## Networking
+## Networking & Webapp
   1. [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) [ done ]
   2. [How does the INTERNET work? | ICT #2 - (VIDEO)](https://www.youtube.com/watch?v=x3c1ih2NJEg) [ done ]
   3. [What is the difference between webpage, website, web server, and search engine?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines) [ done ]
