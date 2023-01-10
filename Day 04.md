@@ -1,7 +1,7 @@
 # Day 04 - Basics & Fundamentals
 
 ## Networking / WebApp (Refreshers)
-  1. What is HTTP? (
+  - What is HTTP? (
     - [HTTP - Overview](https://www.tutorialspoint.com/http/http_overview.htm), 
     - [HTTP Parameters](https://www.tutorialspoint.com/http/http_parameters.htm), 
     - [HTTP - Messages](https://www.tutorialspoint.com/http/http_messages.htm), 
