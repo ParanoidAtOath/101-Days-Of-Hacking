@@ -24,9 +24,9 @@
   3. [Command-Line Data-Wrangling by Tomnomnom](https://www.youtube.com/watch?v=QSq-aYYQpro) [ done ]
 
 ## Programming
-  1. Learning Bash (from different resources)
-    1. https://www.learnshell.org/
-    2. https://explainshell.com/ 
+  - Learning Bash (from different resources)
+    - https://www.learnshell.org/
+    - https://explainshell.com/ 
 
 ## Extra Stuffs
   1. [Getting started with Github for Security Professionals and Bug Bounty Hunters](https://www.youtube.com/watch?v=AQEOz5zbW4w) [ done ]
