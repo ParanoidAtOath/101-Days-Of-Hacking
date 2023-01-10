@@ -24,11 +24,12 @@
   3. [Command-Line Data-Wrangling by Tomnomnom](https://www.youtube.com/watch?v=QSq-aYYQpro) [ done ]
 
 ## Programming
-  1. Learning Bash from different resources and videos.
-  2. (Creating bash scripts, adding scripts to path, bash structure, variables, parameter expansion and shell variables) [ done ]
+  1. Learning Bash (from different resources)
+    1. https://www.learnshell.org/
+    2. https://explainshell.com/ 
 
-## Cyber Security Talks (how hackers learn their crafts)
-  1. 
+## Extra Stuffs
+  1. [Getting started with Github for Security Professionals and Bug Bounty Hunters](https://www.youtube.com/watch?v=AQEOz5zbW4w) [ done ]
 
 ### Book : [The WebApplication Hacker's Handbook 2nd edition](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf) - upto page 45 [ done ]
 ### Course : [Intro to Bug Bounty Hunting and Web App Hacking](https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/) - upto 35% [ done ]
