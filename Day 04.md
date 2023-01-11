@@ -15,20 +15,20 @@
     - [HTTP - Security](https://www.tutorialspoint.com/http/http_security.htm), 
     - [HTTP - Message_Examples](https://www.tutorialspoint.com/http/http_message_examples.htm)
     ) [ done ]
-  2. [Overview of HTML with some practical codes.](https://www.w3schools.com/whatis/whatis_html.asp) [ done ]
+  - [Overview of HTML with some practical codes.](https://www.w3schools.com/whatis/whatis_html.asp) [ done ]
 
 ## WebApp Security (Blogs/Articles)
-  1. [What is Cross-Site-Scripting?](https://owasp.org/www-community/attacks/xss/) [ done ]
-  2. [Cross-Site-Scripting Prevention Cheet Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) [ done ]
-  3. 
-  4. 
-  5. 
-  6. 
+  - [What is Cross-Site-Scripting?](https://owasp.org/www-community/attacks/xss/) [ done ]
+  - [Cross-Site-Scripting Prevention Cheet Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) [ done ]
+  - 
+  - 
+  - 
+  - 
 
 ## Linux CLI
-  1. [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://www.youtube.com/watch?v=U1w4T03B30I) [ done ]
-  2. [Bug Bounties With Bash - VirSecCon2020 Talk](https://www.youtube.com/watch?v=s9w0KutMorE) [ done ]
-  3. [Command-Line Data-Wrangling by Tomnomnom](https://www.youtube.com/watch?v=QSq-aYYQpro) [ done ]
+  - [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://www.youtube.com/watch?v=U1w4T03B30I) [ done ]
+  - [Bug Bounties With Bash - VirSecCon2020 Talk](https://www.youtube.com/watch?v=s9w0KutMorE) [ done ]
+  - [Command-Line Data-Wrangling by Tomnomnom](https://www.youtube.com/watch?v=QSq-aYYQpro) [ done ]
 
 ## Programming
   - Learning Bash (from different resources)
@@ -36,7 +36,7 @@
     - https://explainshell.com/ 
 
 ## Extra Stuffs
-  1. [Getting started with Github for Security Professionals and Bug Bounty Hunters](https://www.youtube.com/watch?v=AQEOz5zbW4w) [ done ]
+  - [Getting started with Github for Security Professionals and Bug Bounty Hunters](https://www.youtube.com/watch?v=AQEOz5zbW4w) [ done ]
 
 ### Book : [The WebApplication Hacker's Handbook 2nd edition](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf) - upto page 45 [ done ]
 ### Course : [Intro to Bug Bounty Hunting and Web App Hacking](https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/) - upto 35% [ done ]
