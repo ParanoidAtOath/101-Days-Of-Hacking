@@ -1,20 +1,20 @@
 # Day 04 - Basics & Fundamentals
 
 ## Networking / WebApp (Refreshers)
-  - What is HTTP? (
-    - [HTTP - Overview](https://www.tutorialspoint.com/http/http_overview.htm), 
-    - [HTTP Parameters](https://www.tutorialspoint.com/http/http_parameters.htm), 
-    - [HTTP - Messages](https://www.tutorialspoint.com/http/http_messages.htm), 
-    - [HTTP - Requests](https://www.tutorialspoint.com/http/http_requests.htm), 
-    - [HTTP - Responses](https://www.tutorialspoint.com/http/http_responses.htm), 
-    - [HTTP - Methods](https://www.tutorialspoint.com/http/http_methods.htm), 
-    - [HTTP - Status_Codes](https://www.tutorialspoint.com/http/http_status_codes.htm), 
-    - [HTTP - Header_Fields](https://www.tutorialspoint.com/http/http_header_fields.htm), 
-    - [HTTP - Chaching](https://www.tutorialspoint.com/http/http_caching.htm), 
-    - [HTTP - URL_Encoding](https://www.tutorialspoint.com/http/http_url_encoding.htm), 
-    - [HTTP - Security](https://www.tutorialspoint.com/http/http_security.htm), 
-    - [HTTP - Message_Examples](https://www.tutorialspoint.com/http/http_message_examples.htm)
-  ) [ done ]
+  1.- What is HTTP? (
+      - [HTTP - Overview](https://www.tutorialspoint.com/http/http_overview.htm), 
+      - [HTTP Parameters](https://www.tutorialspoint.com/http/http_parameters.htm), 
+      - [HTTP - Messages](https://www.tutorialspoint.com/http/http_messages.htm), 
+      - [HTTP - Requests](https://www.tutorialspoint.com/http/http_requests.htm), 
+      - [HTTP - Responses](https://www.tutorialspoint.com/http/http_responses.htm), 
+      - [HTTP - Methods](https://www.tutorialspoint.com/http/http_methods.htm), 
+      - [HTTP - Status_Codes](https://www.tutorialspoint.com/http/http_status_codes.htm), 
+      - [HTTP - Header_Fields](https://www.tutorialspoint.com/http/http_header_fields.htm), 
+      - [HTTP - Chaching](https://www.tutorialspoint.com/http/http_caching.htm), 
+      - [HTTP - URL_Encoding](https://www.tutorialspoint.com/http/http_url_encoding.htm), 
+      - [HTTP - Security](https://www.tutorialspoint.com/http/http_security.htm), 
+      - [HTTP - Message_Examples](https://www.tutorialspoint.com/http/http_message_examples.htm)
+    ) [ done ]
   2. [Overview of HTML with some practical codes.](https://www.w3schools.com/whatis/whatis_html.asp) [ done ]
 
 ## WebApp Security (Blogs/Articles)
