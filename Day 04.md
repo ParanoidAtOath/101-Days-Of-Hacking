@@ -7,15 +7,15 @@
     - [HTTP - Messages](https://www.tutorialspoint.com/http/http_messages.htm), 
     - [HTTP - Requests](https://www.tutorialspoint.com/http/http_requests.htm), 
     - [HTTP - Responses](https://www.tutorialspoint.com/http/http_responses.htm), 
-    - [HTTP - Methods](), 
-    - [HTTP - Status_Codes](), 
-    - [HTTP - Header_Fields](), 
-    - [HTTP - Chaching](), 
-    - [HTTP - URL_Encoding](), 
-    - [HTTP - Security](), 
-    - [HTTP - Message_Examples]()
+    - [HTTP - Methods](https://www.tutorialspoint.com/http/http_methods.htm), 
+    - [HTTP - Status_Codes](https://www.tutorialspoint.com/http/http_status_codes.htm), 
+    - [HTTP - Header_Fields](https://www.tutorialspoint.com/http/http_header_fields.htm), 
+    - [HTTP - Chaching](https://www.tutorialspoint.com/http/http_caching.htm), 
+    - [HTTP - URL_Encoding](https://www.tutorialspoint.com/http/http_url_encoding.htm), 
+    - [HTTP - Security](https://www.tutorialspoint.com/http/http_security.htm), 
+    - [HTTP - Message_Examples](https://www.tutorialspoint.com/http/http_message_examples.htm)
   ) [ done ]
-  2. [Overview of HTML with some practical codes.](https://www.w3schools.com/whatis/whatis_html.asp)
+  2. [Overview of HTML with some practical codes.](https://www.w3schools.com/whatis/whatis_html.asp) [ done ]
 
 ## WebApp Security (Blogs/Articles)
   1. [What is Cross-Site-Scripting?](https://owasp.org/www-community/attacks/xss/) [ done ]
